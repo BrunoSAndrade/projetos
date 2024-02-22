@@ -6,4 +6,4 @@
 
 ## ☕ Utilizando o Cartão de Produto
 
-Para poder utilizar este projeto, você pode entrar [neste link](https://bit.ly/ybruno0709prj1).
+Para poder utilizar este projeto, você pode entrar [neste link](https://bit.ly/brunoandradenikepc).
