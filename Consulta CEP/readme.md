@@ -7,4 +7,4 @@ API utilizada: [ViaCEP](https://viacep.com.br/)
 
 ## ☕ Utilizando o Busca CEP
 
-Para poder testar este projeto, você pode entrar [neste link](https://bit.ly/brunoandradeccep).
+Para poder testar este projeto, você pode entrar [neste link](https://brunoandradeprj.netlify.app/consulta%20cep/pages/).
